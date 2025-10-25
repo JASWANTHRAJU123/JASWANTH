@@ -1,0 +1,12 @@
+.replit
+.upm
+.config
+.cache
+.breakpoints
+.replit_agent_session
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.env
